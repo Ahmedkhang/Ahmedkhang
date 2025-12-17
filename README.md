@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Khan</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ur Rehman</h1>
 <h3 align="center">Frontend Web Developer | Next.js • Tailwind CSS • JavaScript</h3>
 
 <p align="center">
